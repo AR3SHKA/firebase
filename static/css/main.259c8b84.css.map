@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,SACA,UACA,kBACA,wBAA0B","file":"static/css/main.259c8b84.css","sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  padding-top: 100px;\n  background-color: #eceff1;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
